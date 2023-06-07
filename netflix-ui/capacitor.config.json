@@ -1,0 +1,6 @@
+{
+  "appId": "com.moviebuzz.com",
+  "appName": "MovieBuzz",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
